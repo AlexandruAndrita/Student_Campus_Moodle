@@ -1,18 +1,34 @@
-html {
-  font-size: 14px;
+* {
+    box-sizing: border-box;
+    overflow-x: hidden;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+.column_icon {
+    float: none;
+    display: inline-block;
+    width: 16%;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
-body {
-  margin-bottom: 60px;
+.footer_class{
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    text-align: center;
+    position: fixed; 
+}
+
+.icons{
+    height: 30px;
+}
+
+@media screen and (max-width: 500px) {
+    .column_icon {
+        width: 100%;
+    }
 }

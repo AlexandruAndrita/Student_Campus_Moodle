@@ -6,4 +6,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\pictures\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\pictures\discord.png" />
+    <None Include="wwwroot\pictures\facebook.png" />
+    <None Include="wwwroot\pictures\gmail.png" />
+    <None Include="wwwroot\pictures\instagram.png" />
+    <None Include="wwwroot\pictures\library.png" />
+    <None Include="wwwroot\pictures\moodle.png" />
+  </ItemGroup>
+
 </Project>

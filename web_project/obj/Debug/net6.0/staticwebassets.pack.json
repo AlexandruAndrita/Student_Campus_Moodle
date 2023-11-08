@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\web_project.bundle.scp.css"
     },
     {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\mainpage.css",
+      "PackagePath": "staticwebassets\\css\\mainpage.css"
+    },
+    {
       "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\mainpage.js",
+      "PackagePath": "staticwebassets\\js\\mainpage.js"
     },
     {
       "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\site.js",
@@ -243,6 +251,30 @@
     {
       "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\discord.png",
+      "PackagePath": "staticwebassets\\pictures\\discord.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\facebook.png",
+      "PackagePath": "staticwebassets\\pictures\\facebook.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\gmail.png",
+      "PackagePath": "staticwebassets\\pictures\\gmail.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\instagram.png",
+      "PackagePath": "staticwebassets\\pictures\\instagram.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\library.png",
+      "PackagePath": "staticwebassets\\pictures\\library.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\tehnologii web\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\moodle.png",
+      "PackagePath": "staticwebassets\\pictures\\moodle.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.web_project.props",

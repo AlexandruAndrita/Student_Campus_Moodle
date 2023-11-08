@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = web_project
 build_property.RootNamespace = web_project
-build_property.ProjectDir = C:\Users\paul\Source\Repos\Student_Campus_Moodle\web_project\
+build_property.ProjectDir = D:\an III\winter term\web_projects\web_project\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\paul\Source\Repos\Student_Campus_Moodle\web_project
+build_property.MSBuildProjectDirectory = D:\an III\winter term\web_projects\web_project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Home/Login.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Home/MainPage.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Home/MainPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Home/Privacy.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Home/Profile.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Home/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Home/Signup.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Home/Signup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Shared/Error.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/_ViewImports.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/_ViewStart.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paul/Source/Repos/Student_Campus_Moodle/web_project/Views/Shared/_Layout.cshtml]
+[D:/an III/winter term/web_projects/web_project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a1jqtt46a6

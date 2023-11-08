@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<form method="post">
+    <h1>LOGIN</h1>
+    <p>Don't have an account? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Login">Sign up</a></p>
+
+    <div>
+        <label for="email">email</label>
+        <input type="email" id="email" name="Email" placeholder="type your email" required />
+    </div>
+    <div>
+        <label for="password">password</label>
+        <input type="password" id="password" name="Password" placeholder="type your password" required />
+        <div style="text-align: right; margin-top: 0; margin-bottom: 20px;">
+            <a href="/Login">Forgot your password?</a>
+        </div>
+    </div>
+    <button type="submit">login</button>
+
+    <p class="signup-methods-header">Sign up using</p>
+
+    <div class="signup-methods">
+        <form action="/auth/google" method="get">
+            <button type="submit" class="signup-method google">Google</button>
+        </form>
+        <form action="/auth/facebook" method="get">
+            <button type="submit" class="signup-method facebook">Facebook</button>
+        </form>
+        <form action="/auth/twitter" method="get">
+            <button type="submit" class="signup-method twitter">Twitter</button>
+        </form>
+    </div>
+</form>
+
+<link rel="stylesheet" href="~/css/login.css" />

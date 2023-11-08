@@ -1,0 +1,144 @@
+﻿<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+
+<div class="d-flex flex-column flex-shrink-0 p-3 bg-light" style="width: 280px; height: 100vh; position: fixed;">
+    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32">
+            <use xlink:href="#bootstrap"></use>
+        </svg>
+        <span class="fs-4">Logo</span>
+    </a>
+    <hr>
+    <ul class="nav nav-pills flex-column mb-auto">
+        <li class="nav-item">
+            <a href="path/to/news" class="nav-link" aria-current="page">
+                News
+            </a>
+        </li>
+        <li>
+            <a href="path/to/calendar" class="nav-link">
+                Calendar
+            </a>
+        </li>
+        <li>
+            <a href="path/to/map" class="nav-link active">
+                Campus map
+            </a>
+        </li>
+        <li>
+            <a href="path/to/facilities" class="nav-link">
+                Campus facilities
+            </a>
+        </li>
+        <li>
+            <a href="path/to/courses" class="nav-link">
+                Courses
+            </a>
+        </li>
+    </ul>
+</div>
+
+<div class="col-md-9 offset-md-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <form method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="profilePicture">Profile Picture</label>
+                        <div class="profile-picture-container">
+                            <input type="file" id="profilePicture" name="ProfilePicture" accept="image/*"
+                                onchange="loadFile(event)" style="display: none;">
+                            <label for="profilePicture">
+                                <img id="output" src="~/profile.png" alt="Profile Picture"
+                                    class="profile-picture">
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="firstName">First Name</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <img src="path/to/icon.svg" alt="Icon">
+                                </span>
+                            </div>
+                            <input type="text" id="firstName" name="FirstName" class="form-control"
+                                placeholder="First name" readonly disabled>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="lastName">Last Name</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <img src="path/to/icon.svg" alt="Icon">
+                                </span>
+                            </div>
+                            <input type="text" id="lastName" name="LastName" class="form-control"
+                                placeholder="Last name" readonly disabled>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <img src="path/to/icon.svg" alt="Icon">
+                                </span>
+                            </div>
+                            <input type="email" id="email" name="Email" class="form-control" placeholder="Email"
+                                readonly disabled>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                    <img src="path/to/icon.svg" alt="Icon">
+                                </span>
+                            </div>
+                            <input type="password" id="password" name="Password" class="form-control"
+                                placeholder="Password" readonly disabled>
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button" id="change">Change</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="newPasswordFields" style="display: none; margin-bottom: 20px;">
+                        <input type="password" id="newPassword" name="NewPassword" class="form-control mt-2"
+                            placeholder="New Password">
+                        <input type="password" id="confirmPassword" name="ConfirmPassword" class="form-control mt-2"
+                            placeholder="Confirm Password">
+                    </div>
+
+                    <div>
+                        <button type="submit" class="btn btn-success mb-3">Save</button>
+                    </div>
+                    <div class="d-flex justify-content-between">
+                        <button type="button" class="btn btn-secondary"
+                            onclick="location.href='path/to/cancel'">Cancel</button>
+                        <button type="button" class="btn btn-danger" onclick="location.href='path/to/delete'">Delete
+                            Account</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href="~/css/profile.css" />
+
+<script src="~/js/profile.js"></script>

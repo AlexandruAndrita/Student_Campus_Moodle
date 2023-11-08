@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Signup";
+}
+
+<form method="post">
+    <h1>SIGNUP</h1>
+    <p>Already have an account? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Login">Login</a></p>
+
+    <div>
+        <label for="firstName">first name</label>
+        <input type="text" id="firstName" name="FirstName" placeholder="type your first name" required />
+    </div>
+    <div>
+        <label for="lastName">last name</label>
+        <input type="text" id="lastName" name="LastName" placeholder="type your last name" required />
+    </div>
+    <div>
+        <label for="email">email</label>
+        <input type="email" id="email" name="Email" placeholder="type your email" required />
+    </div>
+    <div>
+        <label for="password">password</label>
+        <input type="password" id="password" name="Password" placeholder="type your password" required />
+    </div>
+    <div>
+        <label for="repeatPassword">repeat password</label>
+        <input type="password" id="repeatPassword" name="RepeatPassword" placeholder="repeat your password" required />
+    </div>
+    <button type="submit">sign up</button>
+</form>
+
+<link rel="stylesheet" href="~/css/signup.css" />

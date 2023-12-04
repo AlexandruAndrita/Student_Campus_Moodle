@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V5Rtf15PIEbNlMln0Ep1yjy4QxlWueb5nAoRH2R2z2oIioJY2okOQWdHfqQDWK/v5mMknu5H0/tfVAC8S5rqGQ==",
+  "dgSpecHash": "SIkZNXVNipnY+MHCrhfZ5Tz3d5BLOFKJYnTp22lGh/X0aqFba7a7qYTTIla/J68cy28AH9ySGsNbD9E5beCMNQ==",
   "success": true,
   "projectFilePath": "D:\\an III\\winter term\\web_projects\\web_project\\web_project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\andua\\.nuget\\packages\\microsoft.typescript.msbuild\\5.3.2\\microsoft.typescript.msbuild.5.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0/xewSZGP+gP6NE9tJVh1kIyUt5nor9+XzQM84yIHvs=",
+  "Hash": "eZmCqdjsbNVVgt+0+mcCSq8YNRIQaZTGTENFBBM5vQU=",
   "Source": "web_project",
   "BasePath": "_content/web_project",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\mainpage.js"
+    },
+    {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\mainpage.js.map",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "js/mainpage.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\mainpage.js.map"
     },
     {
       "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\profile.js",
@@ -1273,6 +1290,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pictures\\moodle.png"
+    },
+    {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\resources\\newsInformation.json",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "resources/newsInformation.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resources\\newsInformation.json"
     }
   ]
 }

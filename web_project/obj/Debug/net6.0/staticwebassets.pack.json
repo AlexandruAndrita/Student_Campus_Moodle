@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\js\\mainpage.js"
     },
     {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\mainpage.js.map",
+      "PackagePath": "staticwebassets\\js\\mainpage.js.map"
+    },
+    {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\profile.js",
       "PackagePath": "staticwebassets\\js\\profile.js"
     },
@@ -291,6 +295,10 @@
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\pictures\\moodle.png",
       "PackagePath": "staticwebassets\\pictures\\moodle.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\resources\\newsInformation.json",
+      "PackagePath": "staticwebassets\\resources\\newsInformation.json"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.web_project.props",

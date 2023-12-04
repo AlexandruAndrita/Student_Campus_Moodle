@@ -118,3 +118,4 @@ D:\an III\winter term\web_projects\web_project\obj\Debug\net6.0\refint\web_proje
 D:\an III\winter term\web_projects\web_project\obj\Debug\net6.0\web_project.pdb
 D:\an III\winter term\web_projects\web_project\obj\Debug\net6.0\web_project.genruntimeconfig.cache
 D:\an III\winter term\web_projects\web_project\obj\Debug\net6.0\ref\web_project.dll
+D:\an III\winter term\web_projects\web_project\bin\Debug\net6.0\tsconfig.json

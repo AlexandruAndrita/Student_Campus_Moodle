@@ -1,15 +1,8 @@
 * {
-    box-sizing: border-box;
     overflow-x: hidden;
 }
 
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
-.footer_class {
+/*.footer_class {
     position: absolute;
     bottom: 5px;
     width: 100%;
@@ -19,7 +12,7 @@
 
 .icons {
     height: 30px;
-}
+}*/
 
 @media screen and (min-width: 500px) {
     .column_icon {

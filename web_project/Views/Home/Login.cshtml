@@ -1,37 +1,46 @@
 ﻿@{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = "Signup";
 }
-
-<form method="post">
-    <h1>LOGIN</h1>
-    <p>Don't have an account? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Login">Sign up</a></p>
-
-    <div>
-        <label for="email">email</label>
-        <input type="email" id="email" name="Email" placeholder="type your email" required />
-    </div>
-    <div>
-        <label for="password">password</label>
-        <input type="password" id="password" name="Password" placeholder="type your password" required />
-        <div style="text-align: right; margin-top: 0; margin-bottom: 20px;">
-            <a href="/Login">Forgot your password?</a>
-        </div>
-    </div>
-    <button type="submit">login</button>
-
-    <p class="signup-methods-header">Sign up using</p>
-
-    <div class="signup-methods">
-        <form action="/auth/google" method="get">
-            <button type="submit" class="signup-method google">Google</button>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="~/css/signup.css">
+</head>
+<body>
+    <div class="mantine-Paper-root mantine-rhlh7q snipcss-jkT9c">
+        <form>
+            <div class="mantine-InputWrapper-root mantine-TextInput-root auth-input mantine-lkvjm5">
+                <label class="mantine-InputWrapper-label mantine-TextInput-label mantine-14c6w46" for="mantine-p2xtwzocw" id="email-label">
+                    Email
+                </label>
+                <label id="email-valdidation"></label>
+                <div class="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou">
+                    <input class="mantine-Input-input mantine-TextInput-input mantine-1dvvmf2" id="email" type="email" placeholder="Email" aria-invalid="false" value="">
+                </div>
+                <label id="email-validation"></label>
+            </div>
+            <div class="mantine-InputWrapper-root mantine-TextInput-root auth-input mantine-1ev9jv7">
+                <label class="mantine-InputWrapper-label mantine-TextInput-label mantine-14c6w46" for="mantine-wtibtw2dr" id="mantine-wtibtw2dr-label">
+                    Password
+                </label>
+                <div class="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou">
+                    <input class="mantine-Input-input mantine-TextInput-input mantine-1dvvmf2" id="password" type="password" placeholder="Password" aria-invalid="false" value="">
+                </div>
+                <label id="password-validation"></label>
+            </div>
+            <div class="mantine-Center-root mantine-jk4w6p">
+                <button class="mantine-UnstyledButton-root mantine-Button-root mantine-z9z3e7" type="submit" data-button="true">
+                    <div class="mantine-1wpc1xj mantine-Button-inner">
+                        <span class="mantine-1ryt1ht mantine-Button-label">
+                            Login
+                        </span>
+                    </div>
+                </button>
+            </div>
         </form>
-        <form action="/auth/facebook" method="get">
-            <button type="submit" class="signup-method facebook">Facebook</button>
-        </form>
-        <form action="/auth/twitter" method="get">
-            <button type="submit" class="signup-method twitter">Twitter</button>
-        </form>
     </div>
-</form>
-
-<link rel="stylesheet" href="~/css/login.css" />
+    <script src="~/js/login.js" asp-append-version="true"></script>
+</body>
+</html>

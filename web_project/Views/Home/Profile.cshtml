@@ -24,39 +24,40 @@
     <div class="col-md-9 offset-md-3">
         <div class="container">
             <div class="row">
-                <div class="col-md-9">
+                <div class="col-md-9 mt-3">
                     <form method="post" enctype="multipart/form-data">
                         <div class="form-group">
                             <label for="profilePicture">Profile Picture</label>
                             <div class="profile-picture-container">
                                 <input type="file" id="profilePicture" name="ProfilePicture" accept="image/*"
-                                       onchange="loadFile(event)" style="display: none;">
+                                       style="display: none;">
                                 <label for="profilePicture">
-                                    <img id="output" src="~/profile.png" alt="Profile Picture"
+                                    <img id="output" src="~/pictures/profile.png" alt="Profile Picture"
                                          class="profile-picture">
                                 </label>
                             </div>
                         </div>
+
 
                         <div class="form-group">
                             <label for="firstName">First Name</label>
                             <div class="input-group">
                                 <div class="input-group-prepend">
                                     <span class="input-group-text">
-                                        <img src="path/to/icon.svg" alt="Icon">
+                                        <img src="~/pictures/name.png" alt="Icon" class="small-icon">
                                     </span>
                                 </div>
-                                <input type="text" id="firstName" name="FirstName" class="form-control"
-                                       placeholder="First name" readonly disabled>
+                                <input type="text" id="firstName" name="FirstName" class="form-control" placeholder="First name" readonly disabled>
                             </div>
                         </div>
+
 
                         <div class="form-group">
                             <label for="lastName">Last Name</label>
                             <div class="input-group">
                                 <div class="input-group-prepend">
                                     <span class="input-group-text">
-                                        <img src="path/to/icon.svg" alt="Icon">
+                                        <img src="~/pictures/name.png" alt="Icon">
                                     </span>
                                 </div>
                                 <input type="text" id="lastName" name="LastName" class="form-control"
@@ -69,7 +70,7 @@
                             <div class="input-group">
                                 <div class="input-group-prepend">
                                     <span class="input-group-text">
-                                        <img src="path/to/icon.svg" alt="Icon">
+                                        <img src="~/pictures/email.png" alt="Icon">
                                     </span>
                                 </div>
                                 <input type="email" id="email" name="Email" class="form-control" placeholder="Email"
@@ -82,7 +83,7 @@
                             <div class="input-group">
                                 <div class="input-group-prepend">
                                     <span class="input-group-text">
-                                        <img src="path/to/icon.svg" alt="Icon">
+                                        <img src="~/pictures/password.png" alt="Icon">
                                     </span>
                                 </div>
                                 <input type="password" id="password" name="Password" class="form-control"
@@ -114,6 +115,12 @@
                             </button>
                         </div>
                     </form>
+                </div>
+
+                <div class="col-md-3 mt-3">
+                    <button class="btn btn-danger btn-block" style="width: 40px;" onclick="redirectToHomePage()">
+                        X
+                    </button>
                 </div>
             </div>
         </div>

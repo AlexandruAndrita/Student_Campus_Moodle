@@ -3,7 +3,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+var configuration = builder.Configuration;
+
+// Read the base path from the configuration
+var basePath = configuration["profiles:web_project:basePath"];
+
 var app = builder.Build();
+
+// Set the base path for the application
+app.UsePathBase(basePath);
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

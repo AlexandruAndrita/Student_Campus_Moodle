@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\web_project.bundle.scp.css",
-      "PackagePath": "staticwebassets\\web_project.bundle.scp.css"
-    },
-    {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
@@ -29,6 +25,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\login.js.map",
+      "PackagePath": "staticwebassets\\js\\login.js.map"
+    },
+    {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\mainpage.js",
       "PackagePath": "staticwebassets\\js\\mainpage.js"
     },
@@ -39,6 +43,14 @@
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\profile.js",
       "PackagePath": "staticwebassets\\js\\profile.js"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\signup.js",
+      "PackagePath": "staticwebassets\\js\\signup.js"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\signup.js.map",
+      "PackagePath": "staticwebassets\\js\\signup.js.map"
     },
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\site.js",
@@ -277,6 +289,10 @@
       "PackagePath": "staticwebassets\\pictures\\discord.png"
     },
     {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\pictures\\email.png",
+      "PackagePath": "staticwebassets\\pictures\\email.png"
+    },
+    {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\pictures\\facebook.png",
       "PackagePath": "staticwebassets\\pictures\\facebook.png"
     },
@@ -295,6 +311,18 @@
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\pictures\\moodle.png",
       "PackagePath": "staticwebassets\\pictures\\moodle.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\pictures\\name.png",
+      "PackagePath": "staticwebassets\\pictures\\name.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\pictures\\password.png",
+      "PackagePath": "staticwebassets\\pictures\\password.png"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\pictures\\profile.png",
+      "PackagePath": "staticwebassets\\pictures\\profile.png"
     },
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\resources\\newsInformation.json",

@@ -9,6 +9,7 @@
   },
   "profiles": {
     "web_project": {
+      "basePath": "/Home/MainPage",
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

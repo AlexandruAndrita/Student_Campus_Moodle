@@ -1,0 +1,124 @@
+﻿@{
+    ViewData["Title"] = "Services";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/services.css">
+    <title>Services</title>
+</head>
+<body>
+
+    <ul class="menuList">
+        <li class="menuListItem"><a href="https://localhost:7235/">Main Page</a></li>
+        <li class="menuListItem"><a href="/Home/Profile">Profile</a></li>
+        <li class="menuListItem"><a href="#">Calendar</a></li>
+        <li class="menuListItem"><a href="#">Campus map</a></li>
+        <li class="menuListItem"><a class="active"  href="#">Services & Facilities</a></li>
+    </ul>
+
+    <div class="loginButtonContainer">
+        <button class="loginButton" onclick="toggleLogin()">Login</button>
+    </div>
+
+    <div class="content">
+
+        @* <div class="profile-container">
+        <div class="profile-picture">
+        <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png" alt="Profile Picture">
+        </div>
+        <div class="user-info">
+        <div class="username">Username</div>
+        <div class="student-id">Student_ID</div>
+        </div>
+        </div>
+        <button id="logout-btn">Logout</button> *@
+
+        <div id="services-title">
+            <h2>Services and Facilities</h2>
+        </div>
+
+        <div class="box-grid">
+            <div class="box">
+                <a href="#">
+                    <div class="box-content">
+                        <h3>Residence Halls</h3>
+                        <p>Your Campus Home</p>
+                    </div>
+                </a>
+            </div>
+            <div class="box">
+                <a href="#">
+                    <div class="box-content">
+                        <h3>Dining Services</h3>
+                        <p>Dining Options, Plans, and Dietary Accomodations</p>
+                    </div>
+                </a>
+            </div>
+            <div class="box">
+                <a href="#">
+                    <div class="box-content">
+                        <h3>Parking Information</h3>
+                        <p>Parking Made Simple: Locations and Policies.</p>
+                    </div>
+                </a>
+            </div>
+            <div class="box">
+                <a href="#">
+                    <div class="box-content">
+                        <h3>Events and Meeting Spaces</h3>
+                        <p>Event Venues and Reservation Procedures</p>
+                    </div>
+                </a>
+            </div>
+            <div class="box">
+                <a href="#">
+                    <div class="box-content">
+                        <h3>Transportation Services</h3>
+                        <p>Easy Transport Options</p>
+                    </div>
+                </a>
+            </div>
+            <div class="box">
+                <a href="#">
+                    <div class="box-content">
+                        <h3>Health and Wellness services</h3>
+                        <p>Supporting Health and Wellness on Campus</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+
+    </div>
+
+    <footer class="footer_class">
+        <div class="column_icon">
+            <img class="icons" src="~/pictures/gmail.png" />
+        </div>
+        <div class="column_icon">
+            <img class="icons" src="~/pictures/moodle.png" />
+        </div>
+        <div class="column_icon">
+            <img class="icons" src="~/pictures/library.png" />
+        </div>
+        <div class="column_icon">
+            <img class="icons" src="~/pictures/facebook.png" />
+        </div>
+        <div class="column_icon">
+            <img class="icons" src="~/pictures/instagram.png" />
+        </div>
+        <div class="column_icon">
+            <img class="icons" src="~/pictures/discord.png" />
+        </div>
+    </footer>
+
+
+    <script src="~/js/services.js" asp-append-version="true"></script>
+
+</body>
+</html>

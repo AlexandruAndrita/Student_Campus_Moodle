@@ -187,5 +187,11 @@ namespace web_project.Controllers
 
             return RedirectToAction("MainPage");
         }
+
+        [HttpGet]
+        public IActionResult Services()
+        {
+            return View();
+        }
     }
 }

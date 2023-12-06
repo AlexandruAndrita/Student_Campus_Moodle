@@ -5,7 +5,7 @@ function toggleLogin() {
     loginButton.textContent = (loginButton.textContent === 'Login') ? 'Log out' : 'Login';
 
     if (loginButton.textContent === 'Log out') {
-        window.location.href="/Home/Login"
+        window.location.href = "/Home/Login"
     }
     else {
         window.location.href = "/Home/Logout"
@@ -19,11 +19,13 @@ class UserDataController {
             if (field === "email") {
                 const regEmail = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
                 if (!regEmail.test(this.userData.email)) {
+                    submitButton === null || submitButton === void 0 ? void 0 : submitButton.setAttribute('disabled', '');
                     this.setValidation("email", "The email address must valid.");
                     submitButton.classList.remove("valid");
                     submitButton.classList.add("invalid");
                 }
                 else {
+                    submitButton === null || submitButton === void 0 ? void 0 : submitButton.setAttribute('enabled', '');
                     this.setValidation("email", "Looks good!");
                     submitButton.classList.remove("invalid");
                     submitButton.classList.add("valid");

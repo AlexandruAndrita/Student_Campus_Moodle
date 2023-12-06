@@ -32,10 +32,12 @@ class UserDataController {
             const regEmail = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
             if (!regEmail.test(this.userData.email)) {
+                submitButton?.setAttribute('disabled', '');
                 this.setValidation("email", "The email address must valid.");
                 submitButton.classList.remove("valid");
                 submitButton.classList.add("invalid");
             } else {
+                submitButton?.setAttribute('enabled', '');
                 this.setValidation("email", "Looks good!");
                 submitButton.classList.remove("invalid");
                 submitButton.classList.add("valid");

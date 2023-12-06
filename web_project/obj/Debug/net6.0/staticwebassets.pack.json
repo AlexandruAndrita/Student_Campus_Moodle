@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\profile.css"
     },
     {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\services.css",
+      "PackagePath": "staticwebassets\\css\\services.css"
+    },
+    {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\signup.css",
       "PackagePath": "staticwebassets\\css\\signup.css"
     },
@@ -43,6 +47,10 @@
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\profile.js",
       "PackagePath": "staticwebassets\\js\\profile.js"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\services.js",
+      "PackagePath": "staticwebassets\\js\\services.js"
     },
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\signup.js",

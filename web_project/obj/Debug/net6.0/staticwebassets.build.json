@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e7cQ08HPyMhd5klF25sBbcptFaSb2pYu7C6YclcvKYw=",
+  "Hash": "OwPr41+H7bqnVuhAEeo9zSJlFmJ0IDcCORI39aT3SVU=",
   "Source": "web_project",
   "BasePath": "_content/web_project",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\profile.css"
+    },
+    {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\services.css",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "css/services.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\services.css"
     },
     {
       "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\signup.css",
@@ -202,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\profile.js"
+    },
+    {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\services.js",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "js/services.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\services.js"
     },
     {
       "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\signup.js",

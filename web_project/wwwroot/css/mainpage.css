@@ -189,6 +189,22 @@ body {
 .newsList li p{
     margin:0;
 }
-
 /* news list & newsletter css end*/
 
+/* login button css start */
+.loginButtonContainer {
+    position: fixed;
+    top: 20px;
+    right: 40px;
+    overflow: hidden;
+}
+
+.loginButton {
+    padding: 10px 10px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+/* login button css end */

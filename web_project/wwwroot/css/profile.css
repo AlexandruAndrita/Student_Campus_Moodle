@@ -1,12 +1,13 @@
 ﻿.profile-picture-container {
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 1px;
+    height: 1px;
 }
 
 .profile-picture {
-    width: 100%;
-    height: 100%;
+    width: 1px;
+    height: 1px;
+    object-fit: cover;
     border-radius: 50%;
     cursor: pointer;
 }

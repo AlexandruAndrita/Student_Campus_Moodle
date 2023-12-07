@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OwPr41+H7bqnVuhAEeo9zSJlFmJ0IDcCORI39aT3SVU=",
+  "Hash": "f/PiRrRLYlzztgWIxoEpxaa1Yu8uMMBuJXxyXKBY0SQ=",
   "Source": "web_project",
   "BasePath": "_content/web_project",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\calendar.css",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "css/calendar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\calendar.css"
+    },
     {
       "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\login.css",
       "SourceId": "web_project",
@@ -49,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\mainpage.css"
+    },
+    {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\map.css",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "css/map.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\map.css"
     },
     {
       "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\profile.css",
@@ -136,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\calendar.js",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "js/calendar.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\calendar.js"
+    },
+    {
       "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\login.js",
       "SourceId": "web_project",
       "SourceType": "Discovered",
@@ -202,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\mainpage.js.map"
+    },
+    {
+      "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\map.js",
+      "SourceId": "web_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\",
+      "BasePath": "_content/web_project",
+      "RelativePath": "js/map.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\map.js"
     },
     {
       "Identity": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\profile.js",

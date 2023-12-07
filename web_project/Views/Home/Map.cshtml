@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Map";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/map.css">
+    <title>Map</title>
+</head>
+<body>
+    <ul class="menuList">
+        <li class="menuListItem"><a href="https://localhost:7235/">Main Page</a></li>
+        <li class="menuListItem"><a href="/Home/Profile">Profile</a></li>
+        <li class="menuListItem"><a href="/Home/Calendar">Calendar</a></li>
+        <li class="menuListItem"><a class="active" href="/Home/Map">Campus map</a></li>
+        <li class="menuListItem"><a href="#">Services & Facilities</a></li>
+    </ul>
+
+    <div class="loginButtonContainer">
+        <button class="loginButton" onclick="toggleLogin()">Login</button>
+    </div>
+
+    <div class="title-subtitle-box">
+        <div class="title">Campus Map</div>
+        <div class="subtitle">Main Buildings and Faculties of the University shown on the map</div>
+    </div>
+
+    <div class="image-container">
+        <img src="https://i.postimg.cc/T36Zbg64/Screenshot-39.jpg" alt="Image Description">
+    </div>
+
+    <script src="~/js/map.js" asp-append-version="true"></script>
+</body>
+</html>

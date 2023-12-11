@@ -12,6 +12,7 @@ function toggleLogin() {
     }
 }
 
+
 class UserDataController {
     constructor() {
         this.onDataChanged = (field) => {

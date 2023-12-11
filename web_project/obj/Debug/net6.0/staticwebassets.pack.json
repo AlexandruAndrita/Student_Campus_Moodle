@@ -1,12 +1,20 @@
 {
   "Files": [
     {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\calendar.css",
+      "PackagePath": "staticwebassets\\css\\calendar.css"
+    },
+    {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\mainpage.css",
       "PackagePath": "staticwebassets\\css\\mainpage.css"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\map.css",
+      "PackagePath": "staticwebassets\\css\\map.css"
     },
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\css\\profile.css",
@@ -29,6 +37,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\calendar.js",
+      "PackagePath": "staticwebassets\\js\\calendar.js"
+    },
+    {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
     },
@@ -43,6 +55,10 @@
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\mainpage.js.map",
       "PackagePath": "staticwebassets\\js\\mainpage.js.map"
+    },
+    {
+      "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
     },
     {
       "Id": "D:\\an III\\winter term\\web_projects\\web_project\\wwwroot\\js\\profile.js",

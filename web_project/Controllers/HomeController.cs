@@ -193,5 +193,17 @@ namespace web_project.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Calendar()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Map()
+        {
+            return View();
+        }
     }
 }

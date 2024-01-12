@@ -540,8 +540,6 @@ button {
     user-select: none;
     padding-top: 0;
     padding-bottom: 0;
-    margin-top: 0.75rem;
-    margin-bottom: 1.5rem;
 }
 
 button, [type="submit"] {
@@ -686,4 +684,43 @@ img {
 .colorSignUpAlternativeDiv {
     text-align: center;
     margin-top: 10px;
+}
+
+.mantine-Checkbox-root {
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.mantine-Checkbox-input {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #4a90e2;
+    border-radius: 4px;
+    margin-right: 8px;
+    cursor: pointer;
+    position: relative;
+}
+
+.mantine-Checkbox-input:checked {
+    background-color: #4a90e2;
+}
+
+.mantine-Checkbox-input:checked::before {
+    content: '';
+    width: 10px;
+    height: 5px;
+    border-bottom: 2px solid #fff;
+    border-left: 2px solid #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.mantine-Checkbox-label {
+    font-size: 14px;
+    color: #555;
+    cursor: pointer;
 }

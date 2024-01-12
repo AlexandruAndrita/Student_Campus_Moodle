@@ -87,15 +87,15 @@ namespace web_project.Controllers
         [HttpGet]
         public IActionResult Profile()
         {
-            try
-            {
-                string email = string.Empty;
-                /*try{
+            //try
+            //{
+                /*string email = string.Empty;
+                try{
                     email = TempData["EmailUserLoggedIn"].ToString();
                 }catch(NullReferenceException)
                 {
                     TempData["AlertMessageProfile"] = "User not logged in, cannot access Profile page";
-                }*/
+                }
 
                 if (TempData.ContainsKey("EmailUserLoggedIn") && TempData["EmailUserLoggedIn"] != null)
                 {
@@ -110,31 +110,31 @@ namespace web_project.Controllers
                 ApplicationDbContext applicationDb = new ApplicationDbContext();
                 string id = applicationDb.GetUserIdByEmail(email);
 
-                //string id = TempData["UserProfileID"] as string ?? Request.Query["id"];
+                //string id = TempData["UserProfileID"] as string ?? Request.Query["id"];*/
 
-                if (!String.IsNullOrEmpty(id)) { 
+                //if (!String.IsNullOrEmpty(id)) { 
 
-                    ApplicationDbContext applicationDbContext = new ApplicationDbContext();
-                    SignupViewModel user= applicationDbContext.DisplayUserInformation(id);
+                    //ApplicationDbContext applicationDbContext = new ApplicationDbContext();
+                    //SignupViewModel user= applicationDbContext.DisplayUserInformation(id);
 
-                    TempData["UserProfileId"] = id;
+                  //  TempData["UserProfileId"] = id;
 
-                    return View(user);
-                }
-                else
-                {
+                    return View();
+               // }
+               // else
+                //{
                     //return RedirectToAction("MainPage");
-                    throw new NullReferenceException("Id for the user that wants profile changed is null");
-                }
-            }
-            catch(Exception ex)
-            {
-                Debug.Print($"Exception: {ex}");
-                return View();
-            }
+                 //   throw new NullReferenceException("Id for the user that wants profile changed is null");
+                //}
+           // }
+            //catch(Exception ex)
+            //{
+              //  Debug.Print($"Exception: {ex}");
+                //return View();
+            //}
         }
 
-        [HttpPost]
+        /*[HttpPost]
         public IActionResult Profile(SignupViewModel model, string newPassword)
         {
             try
@@ -178,7 +178,7 @@ namespace web_project.Controllers
                 Debug.Print($"Exception: {ex}");
                 return View();
             }
-        }
+        }*/
 
         [HttpGet]
         public IActionResult Logout()

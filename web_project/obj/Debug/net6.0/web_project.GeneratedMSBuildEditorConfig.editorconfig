@@ -9,91 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = web_project
 build_property.RootNamespace = web_project
-build_property.ProjectDir = D:\an III\winter term\web_projects\web_project\
+build_property.ProjectDir = C:\Users\paul\source\repos\Student_Campus_Moodle\web_project\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\an III\winter term\web_projects\web_project
+build_property.MSBuildProjectDirectory = C:\Users\paul\source\repos\Student_Campus_Moodle\web_project
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Shared/_Layout.cshtml.css]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Shared/_Layout.cshtml.css]
 build_metadata.AdditionalFiles.GenKind = Css
 build_metadata.AdditionalFiles.ManifestResourceName = web_project.Views.Shared._Layout.cshtml.css
 build_metadata.AdditionalFiles.TargetPath = Views\Shared\_Layout.cshtml.css
 build_metadata.AdditionalFiles.RelativePath = Views\Shared\_Layout.cshtml.css
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Home/Calendar.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Home/Calendar.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxlbmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Home/Login.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Home/MainPage.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Home/MainPage.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Home/Map.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Home/Map.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXAuY3NodG1s
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Home/Profile.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Home/Profile.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Home/Services.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Home/Signup.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Home/Signup.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Shared/_Layout.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/_ViewImports.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/an III/winter term/web_projects/web_project/Views/_ViewStart.cshtml]
+[C:/Users/paul/source/repos/Student_Campus_Moodle/web_project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=

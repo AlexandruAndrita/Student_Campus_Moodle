@@ -1,355 +1,447 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\calendar.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\calendar.css",
       "PackagePath": "staticwebassets\\css\\calendar.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\login.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\mainpage.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\mainpage.css",
       "PackagePath": "staticwebassets\\css\\mainpage.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\map.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\map.css",
       "PackagePath": "staticwebassets\\css\\map.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\profile.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\profile.css",
       "PackagePath": "staticwebassets\\css\\profile.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\services.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\services.css",
       "PackagePath": "staticwebassets\\css\\services.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\signup.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\signup.css",
       "PackagePath": "staticwebassets\\css\\signup.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\site.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\favicon.ico",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\calendar.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\calendar.js",
       "PackagePath": "staticwebassets\\js\\calendar.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\login.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\login.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\login.js.map",
       "PackagePath": "staticwebassets\\js\\login.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\mainpage.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\mainpage.js",
       "PackagePath": "staticwebassets\\js\\mainpage.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\mainpage.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\mainpage.js.map",
       "PackagePath": "staticwebassets\\js\\mainpage.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\map.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\map.js",
       "PackagePath": "staticwebassets\\js\\map.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\profile.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\profile.js",
       "PackagePath": "staticwebassets\\js\\profile.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\services.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\services.js",
       "PackagePath": "staticwebassets\\js\\services.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\signup.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\signup.js",
       "PackagePath": "staticwebassets\\js\\signup.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\signup.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\signup.js.map",
       "PackagePath": "staticwebassets\\js\\signup.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\site.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\discord.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\pictures\\1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Library-Main Building.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Library-Main Building.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Library-Science Faculty.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Library-Science Faculty.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Library-Stadium.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Library-Stadium.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Library-University Canteen.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Library-University Canteen.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Main Building-Library.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Main Building-Library.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Main Building-Science Faculty.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Main Building-Science Faculty.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Main Building-Stadium.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Main Building-Stadium.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Main Building-University Canteen.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Main Building-University Canteen.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Science Faculty-Library.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Science Faculty-Library.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Science Faculty-Main Building.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Science Faculty-Main Building.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Science Faculty-Stadium.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Science Faculty-Stadium.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Science Faculty-University Canteen.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Science Faculty-University Canteen.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Stadium-Library.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Stadium-Library.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Stadium-Main Building.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Stadium-Main Building.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Stadium-Science Faculty.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Stadium-Science Faculty.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\Stadium-University Canteen.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Stadium-University Canteen.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\University Canteen-Library.jpg",
+      "PackagePath": "staticwebassets\\pictures\\University Canteen-Library.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\University Canteen-Main Building.jpg",
+      "PackagePath": "staticwebassets\\pictures\\University Canteen-Main Building.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\University Canteen-Science Faculty.jpg",
+      "PackagePath": "staticwebassets\\pictures\\University Canteen-Science Faculty.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\University Canteen-Stadium.jpg",
+      "PackagePath": "staticwebassets\\pictures\\University Canteen-Stadium.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\discord.png",
       "PackagePath": "staticwebassets\\pictures\\discord.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\email.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\email.png",
       "PackagePath": "staticwebassets\\pictures\\email.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\facebook.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\facebook.png",
       "PackagePath": "staticwebassets\\pictures\\facebook.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\gmail.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\gmail.png",
       "PackagePath": "staticwebassets\\pictures\\gmail.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\instagram.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\instagram.png",
       "PackagePath": "staticwebassets\\pictures\\instagram.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\library.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\library.png",
       "PackagePath": "staticwebassets\\pictures\\library.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\moodle.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\moodle.png",
       "PackagePath": "staticwebassets\\pictures\\moodle.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\name.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\name.png",
       "PackagePath": "staticwebassets\\pictures\\name.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\password.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\newsletter_icon.png",
+      "PackagePath": "staticwebassets\\pictures\\newsletter_icon.png"
+    },
+    {
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\password.png",
       "PackagePath": "staticwebassets\\pictures\\password.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\profile.png",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\pictures\\profile.png",
       "PackagePath": "staticwebassets\\pictures\\profile.png"
     },
     {
-      "Id": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\wwwroot\\resources\\newsInformation.json",
+      "Id": "c:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\wwwroot\\resources\\newsInformation.json",
       "PackagePath": "staticwebassets\\resources\\newsInformation.json"
     },
     {

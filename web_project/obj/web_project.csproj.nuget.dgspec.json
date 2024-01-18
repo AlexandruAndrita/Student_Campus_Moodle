@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\web_project.csproj": {}
+    "C:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\web_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\web_project.csproj": {
+    "C:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\web_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\web_project.csproj",
+        "projectUniqueName": "C:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\web_project.csproj",
         "projectName": "web_project",
-        "projectPath": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\web_project.csproj",
-        "packagesPath": "C:\\Users\\paul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paul\\source\\repos\\Student_Campus_Moodle\\web_project\\obj\\",
+        "projectPath": "C:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\web_project.csproj",
+        "packagesPath": "C:\\Users\\Arazzzzzzzz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arazzzzzzzz\\Desktop\\Programming III\\Student_Campus_Moodle\\web_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arazzzzzzzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

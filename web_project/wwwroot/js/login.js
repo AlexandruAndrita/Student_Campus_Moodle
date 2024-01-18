@@ -41,36 +41,3 @@ LoginFormController.fields = [
 ;
 const loginController = new LoginFormController();
 //# sourceMappingURL=login.js.map
-
-function onSuccess(googleUser) {
-    console.log('Logged in as: ' + googleUser.getBasicProfile().getName());
-}
-function onFailure(error) {
-    console.log(error);
-}
-function renderButton() {
-    gapi.signin2.render('my-signin2', {
-        'scope': 'profile email',
-        'width': 240,
-        'height': 50,
-        'longtitle': true,
-        'theme': 'dark',
-        'onsuccess': onSuccess,
-        'onfailure': onFailure
-    });
-}
-
-function openPopup() {
-    document.getElementById('forgotPasswordPopup').style.display = 'block';
-    document.getElementById('overlay').style.display = 'block';
-}
-
-function closePopup() {
-    document.getElementById('forgotPasswordPopup').style.display = 'none';
-    document.getElementById('overlay').style.display = 'none';
-}
-
-function sendResetEmail() {
-    // cod pt trimiterea emailului pt resetarea parolei
-    closePopup();
-}

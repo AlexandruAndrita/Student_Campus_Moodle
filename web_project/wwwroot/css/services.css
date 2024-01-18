@@ -7,7 +7,80 @@
     height: 100vh;
     float: left;
 }
+#logout-btn {
+    background-color: #f00;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+}
 
+.loginButtonContainer {
+    position: fixed;
+    top: 20px;
+    right: 140px;
+    overflow: hidden;
+    filter: drop-shadow(0.13rem 0.15rem 0.2rem rgba(0, 0, 0, 0.6));
+}
+.loginButton {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+/* login button css end */
+
+.signupButtonContainer {
+    position: fixed;
+    top: 20px;
+    right: 40px;
+    overflow: hidden;
+    filter: drop-shadow(0.13rem 0.15rem 0.2rem rgba(0, 0, 0, 0.6));
+}
+
+.signupButton {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+.loginButton {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+/* login button css end */
+
+.signupButtonContainer {
+    position: fixed;
+    top: 20px;
+    right: 40px;
+    overflow: hidden;
+    filter: drop-shadow(0.13rem 0.15rem 0.2rem rgba(0, 0, 0, 0.6));
+}
+
+.signupButton {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
 .content {
     margin-left: 27%;
     padding: 20px;
@@ -29,11 +102,11 @@
     cursor: pointer;
 }
 
-    .profile-picture img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
+.profile-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
 .user-info {
     background-color: #ddd;
@@ -79,7 +152,7 @@
 
 .box-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 20px;
     padding: 20px;
 }
@@ -89,27 +162,38 @@
     border-radius: 15px;
     overflow: hidden;
     transition: all 0.3s ease;
+    position: relative;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
-    .box a {
-        display: block;
-        color: inherit;
-        text-decoration: none;
-    }
+#residence-halls p {
+    margin-left: 10%; 
+    margin-right: 10%; 
+}
 
-    .box:hover {
-        transform: scale(1.05);
-    }
+.box a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+.box:hover {
+    transform: scale(1.05);
+}
 
 .box-content {
     padding: 20px;
     color: aliceblue;
     font-size: large;
+    text-align: center;
 }
 
+.box6 {
+    transform: scale(0.95);
+}
 
-
-/* icons css start */
 .footer_class {
     position: fixed;
     bottom: 0;
@@ -129,9 +213,7 @@
 .icons {
     height: 30px;
 }
-/* icons css end */
 
-/* menu css start */
 .menuList {
     list-style-type: none;
     margin: 0;
@@ -150,54 +232,42 @@
     text-decoration: none;
 }
 
-    .menuListItem a.active {
-        background-color: #04AA6D;
-        color: white;
-        border-radius: 10px;
-    }
-
-    .menuListItem a:hover:not(.active) {
-        background-color: #555;
-        color: white;
-        border-radius: 10px;
-    }
-/* menu css end */
-
-
-/* login button css start */
-.loginButtonContainer {
-    position: fixed;
-    top: 20px;
-    right: 140px;
-    overflow: hidden;
-    filter: drop-shadow(0.13rem 0.15rem 0.2rem rgba(0, 0, 0, 0.6));
-}
-
-.loginButton {
-    padding: 10px 20px;
-    background-color: #3498db;
-    color: #fff;
-    border: none;
+.menuListItem a.active {
+    background-color: #04AA6D;
+    color: white;
     border-radius: 10px;
-    transition: background-color 0.3s ease;
-    cursor: pointer;
 }
-/* login button css end */
 
-.signupButtonContainer {
+.menuListItem a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+    border-radius: 10px;
+}
+
+.loginButtonContainer {
     position: fixed;
     top: 20px;
     right: 40px;
     overflow: hidden;
-    filter: drop-shadow(0.13rem 0.15rem 0.2rem rgba(0, 0, 0, 0.6));
 }
 
-.signupButton {
-    padding: 10px 20px;
+.loginButton {
+    padding: 10px 10px;
     background-color: #3498db;
     color: #fff;
-    border: none;
     border-radius: 10px;
-    transition: background-color 0.3s ease;
+    overflow: hidden;
     cursor: pointer;
+}
+
+.clickable-box {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 200px;
+    height: 52px;
+    background-color: #ccc;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }

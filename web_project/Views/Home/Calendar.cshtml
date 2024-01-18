@@ -1,5 +1,14 @@
-﻿@{
+﻿@model SignupViewModel
+@{
     ViewData["Title"] = "Calendar";
+}
+@if (TempData["AlertMessageProfile"] != null)
+{
+    <script>
+        alert('@TempData["AlertMessageProfile"]')
+        window.location.href = "https://localhost:7235";
+    </script>
+
 }
 
 <!DOCTYPE html>
@@ -22,6 +31,10 @@
 
     <div class="loginButtonContainer">
         <button class="loginButton" onclick="toggleLogin()">Login</button>
+    </div>
+
+    <div class="signupButtonContainer">
+        <button class="signupButton" onclick="toggleSignup()">Signup</button>
     </div>
 
     <div id="container">

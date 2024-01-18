@@ -99,8 +99,9 @@ body {
     }
 
     .card1Style,
-    .card2Style{
+    .card2Style {
         width: 48%;
+        overflow-y: hidden;
     }
 }
 /* column cards css end*/
@@ -240,3 +241,12 @@ body {
 
 }
 /* signup button css end */
+
+.newsletterIcon {
+    height: 40px;
+    width: 40px;
+}
+
+. newsletterBlock {
+    display: inline-block;
+}

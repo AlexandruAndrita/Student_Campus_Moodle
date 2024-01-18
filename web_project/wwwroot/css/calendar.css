@@ -65,19 +65,39 @@ body {
 .loginButtonContainer {
     position: fixed;
     top: 20px;
-    right: 40px;
+    right: 140px;
     overflow: hidden;
+    filter: drop-shadow(0.13rem 0.15rem 0.2rem rgba(0, 0, 0, 0.6));
 }
 
 .loginButton {
-    padding: 10px 10px;
+    padding: 10px 20px;
     background-color: #3498db;
     color: #fff;
+    border: none;
     border-radius: 10px;
-    overflow: hidden;
+    transition: background-color 0.3s ease;
     cursor: pointer;
 }
 /* login button css end */
+
+.signupButtonContainer {
+    position: fixed;
+    top: 20px;
+    right: 40px;
+    overflow: hidden;
+    filter: drop-shadow(0.13rem 0.15rem 0.2rem rgba(0, 0, 0, 0.6));
+}
+
+.signupButton {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
 
 .content {
     margin-left: 27%;

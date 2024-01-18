@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Reflection;
 
@@ -17,7 +18,7 @@ namespace web_project.Controllers
         [HttpGet]
         public IActionResult MainPage(SignupViewModel model)
         {
-            return View();
+            return View(model);
         }
 
         [HttpGet]
@@ -85,17 +86,11 @@ namespace web_project.Controllers
         }
 
         [HttpGet]
-        public IActionResult Profile()
+        public IActionResult Profile(SignupViewModel model)
         {
             try
             {
                 string email = string.Empty;
-                /*try{
-                    email = TempData["EmailUserLoggedIn"].ToString();
-                }catch(NullReferenceException)
-                {
-                    TempData["AlertMessageProfile"] = "User not logged in, cannot access Profile page";
-                }*/
 
                 if (TempData.ContainsKey("EmailUserLoggedIn") && TempData["EmailUserLoggedIn"] != null)
                 {
@@ -104,7 +99,6 @@ namespace web_project.Controllers
                 else
                 {
                     TempData["AlertMessageProfile"] = "User not logged in, cannot access Profile page";
-                    // throw new NullReferenceException("User not logged in. Cannot access Profile page");
                 }
 
                 ApplicationDbContext applicationDb = new ApplicationDbContext();
@@ -119,7 +113,7 @@ namespace web_project.Controllers
 
                     TempData["UserProfileId"] = id;
 
-                    return View();
+                    return View(user);
                 }
                 else
                 {
@@ -162,11 +156,9 @@ namespace web_project.Controllers
 
                     //applicationDbContext.RetrieveAllUsers();
 
-                    //ramane in Profile
-                    //return View(model);
-
                     TempData["EmailUserLoggedIn"] = model.Email;
                     return RedirectToAction("Profile");
+                    //return View(model);
                 }
                 else
                 {
@@ -189,21 +181,86 @@ namespace web_project.Controllers
         }
 
         [HttpGet]
-        public IActionResult Services()
+        public IActionResult Services(SignupViewModel model)
         {
-            return View();
+            return View(model);
         }
 
         [HttpGet]
         public IActionResult Calendar()
         {
             return View();
+            /*try
+            {
+                string email = string.Empty;
+
+                if (TempData.ContainsKey("EmailUserLoggedIn") && TempData["EmailUserLoggedIn"] != null)
+                {
+                    email = TempData["EmailUserLoggedIn"].ToString();
+                }
+                else
+                {
+                    TempData["AlertMessageProfile"] = "User not logged in, cannot access Calendar page";
+                }
+
+                ApplicationDbContext applicationDb = new ApplicationDbContext();
+                string id = applicationDb.GetUserIdByEmail(email);
+
+                //string id = TempData["UserProfileID"] as string ?? Request.Query["id"];
+
+                if (!String.IsNullOrEmpty(id))
+                {
+
+                    ApplicationDbContext applicationDbContext = new ApplicationDbContext();
+                    SignupViewModel user = applicationDbContext.DisplayUserInformation(id);
+
+                    TempData["UserProfileId"] = id;
+
+                    return View(user);
+                }
+                else
+                {
+                    //return RedirectToAction("MainPage");
+                    throw new NullReferenceException("Id for the user that wants profile changed is null");
+                }
+            }
+            catch (Exception ex)
+            {
+                Debug.Print($"Exception: {ex}");
+                return View();
+            }*/
         }
 
-        [HttpGet]
-        public IActionResult Map()
+        /*[HttpPost]
+        public IActionResult Calendar(SignupViewModel model)
         {
-            return View();
+            try
+            {
+                ApplicationDbContext applicationDb = new ApplicationDbContext();
+                string idStored = TempData["UserProfileId"].ToString();
+                SignupViewModel modelTakenFromTemp = applicationDb.DisplayUserInformation(idStored);
+
+                model.UserId = modelTakenFromTemp.UserId;
+                model.FirstName = modelTakenFromTemp.FirstName;
+                model.LastName = modelTakenFromTemp.LastName;
+                model.Email = modelTakenFromTemp.Email;
+                model.UserPassword = modelTakenFromTemp.UserPassword;
+                model.UserConfirmPassword = modelTakenFromTemp.UserConfirmPassword;
+
+                TempData["EmailUserLoggedIn"] = model.Email;
+                return View();
+            }
+            catch (Exception ex)
+            {
+                Debug.Print($"Exception: {ex}");
+                return View();
+            }
+        }*/
+
+        [HttpGet]
+        public IActionResult Map(SignupViewModel model)
+        {
+            return View(model);
         }
     }
 }

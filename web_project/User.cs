@@ -10,12 +10,10 @@ public class SignupViewModel
     public string? UserPassword { get; set; }
     public string? UserConfirmPassword { get; set; }
 
-    /*public void PrintMethod()
+/*    public static void PrintMethod(SignupViewModel model)
     {
-        Debug.Print(UserId.ToString());
-        Debug.Print(FirstName.ToString());
-        Debug.Print(LastName.ToString());
-        Debug.Print(Email.ToString());
-        Debug.Print(UserPassword.ToString());
+        string userData = model.UserId.ToString()+" "+ model.FirstName.ToString()+" "+model.LastName.ToString()+" "+
+            model.Email.ToString()+" "+model.UserPassword.ToString();
+        Debug.Print(userData);
     }*/
 }

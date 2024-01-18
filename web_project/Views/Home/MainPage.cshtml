@@ -1,6 +1,11 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    var loggedIn = User.Identity.IsAuthenticated.ToString().ToLower();
 }
+
+<script>
+    var userLoggedIn = @Html.Raw(loggedIn);
+</script>
 
 <html lang="en">
 
@@ -23,11 +28,14 @@
 
     <div class="loginButtonContainer">
         <button class="loginButton" onclick="toggleLogin()">Login</button>
-    </div>
+        @* <button class="loginButton">Login</button> *@
+    </div> 
 
     <div class="signupButtonContainer">
         <button class="signupButton" onclick="toggleSignup()">Signup</button>
+        @* <button class="signupButton">Signup</button> *@
     </div>
+    
 
     <div class="pageContent">
         <div class="section">
@@ -46,7 +54,10 @@
             </div>
 
             <div class="card2Style">
-                <h3>Subscribe to our Newsletter</h3>
+                <p class="newsletterBlock">
+                    <img class="newsletterIcon" src="~/pictures/newsletter_icon.png">
+                    <h3>Subscribe to our Newsletter</h3>
+                </p>
                 <label for="email"></label>
                 <input type="email" id="email" placeholder="Email">
                 <div id="email-validation"></div>
